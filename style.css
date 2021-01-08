@@ -1,0 +1,24 @@
+body {
+    background-color: lightblue;
+}
+
+#player1 {
+    display: flex;
+    flex-direction: column;
+}
+.container {
+    display: flex;
+    flex-direction: row;
+}
+
+.deck1 , .deck2 {
+    width: 100px;
+    height: 100px;
+    border: black;
+}
+
+#hp0, #attack0, #defence0 , #stamina0, #hp2, #attack2, #defence2 , #stamina02 {
+    display: flex;
+    flex-direction: row;
+
+}
